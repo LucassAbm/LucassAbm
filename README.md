@@ -1,7 +1,7 @@
 ### About me 😁
 
 Hi there! 👋
-My name is Lucas Augusto and I'm a CS student at CEFET/RJ 🖥️📖
+My name is Lucas Augusto Barbosa Marinho and I'm a CS student at CEFET/RJ 🖥️📖
 
 I'm from Rio de Janeiro, Brazil 🇧🇷.
  
