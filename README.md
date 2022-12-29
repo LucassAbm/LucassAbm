@@ -1,6 +1,6 @@
 ### About me 😁
 
-Hi there! 👋
+Hello there! 👋
 My name is Lucas Augusto Barbosa Marinho and I'm a CS student at CEFET/RJ 🖥️📖
 
 I'm from Rio de Janeiro, Brazil 🇧🇷.
